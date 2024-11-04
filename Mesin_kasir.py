@@ -8,6 +8,7 @@ def tampilkan_menu_utama():
     |  3  | Pecah Belah    |
     |  4  | Sembako        |
     |  5  | Minuman        |
+    |  6  | Sabun          |
 ''')
 
 # Inisialisasi keranjang belanja
